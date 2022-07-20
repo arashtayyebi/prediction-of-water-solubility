@@ -1,6 +1,7 @@
 # prediction-of-water-solubility
-The codes for "Prediction of Organic Compound Aqueous Solubility Using Interpretable Machine Learning" can be found as:
-RDKit and Morgan fingerprint and Molecular Descriptors files for each method.
+The codes for "Prediction of Organic Compound Aqueous Solubility Using Interpretable Machine Learning" paper listed as:
+
+"RDKit" and "Morgan fingerprint" and "Molecular Descriptors" files 
 
 The dataset can be download from the "dataset" file
 
