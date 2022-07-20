@@ -1,0 +1,11 @@
+Substance,SMILES,rdkit,morgan,descriptor
+ atropine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,-2.14E+00,-1.90E+00,-2.20E+00
+ carvedilol,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,-4.28E+00,-4.27E+00,-4.07E+00
+ chlorpropamide,Clc1ccc(S(=O)(NC(=O)NCCC)=O)cc1,-3.33E+00,-3.53E+00,-3.00E+00
+ enrofloxacin,CCN1CCN(CC1)c1c(cc2c(n(cc(C(=O)O)c2=O)C2CC2)c1)F,-3.27E+00,-3.34E+00,-3.37E+00
+ metronidazole,OCCn1c(ncc1N(=O)=O)C,-1.22E+00,-1.25E+00,-1.24E+00
+ nalidixic_acid,CCn1cc(c(=O)c2ccc(nc12)C)C(=O)O,-3.41E+00,-3.52E+00,-3.20E+00
+ nitrofurantoin,O=C1NC(CN1\N=C\c1ccc(N(=O)=O)o1)=O,-3.18E+00,-3.13E+00,-3.18E+00
+ sulfamethazine,S(=O)(=O)(Nc1nc(C)cc(n1)C)c1ccc(N)cc1,-2.75E+00,-2.55E+00,-2.51E+00
+ thymol,c1(cc(ccc1C(C)C)C)O,-2.46E+00,-2.08E+00,-2.23E+00
+ trichloromethiazide_form_I,NS(=O)(=O)c1cc2c(NC(NS2(=O)=O)C(Cl)Cl)cc1Cl,-3.09E+00,-3.27E+00,-2.84E+00
