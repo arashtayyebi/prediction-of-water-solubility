@@ -1,7 +1,7 @@
 # prediction-of-water-solubility
-The codes for "Prediction of Organic Compound Aqueous Solubility Using Interpretable Machine Learning" paper listed as:
+The codes for "Prediction of Organic Compound Aqueous Solubility Using Machine Learning- A comparison study of Descriptor-based and fingerprints-based medels" paper listed as:
 
-"descriotors-new dataset-upload2" and "Morgan paper2" 
+"descriotors-paper2" and "Morgan paper2" 
 
- "new222new" file is the dataset and "testexperiment2upload2raw" file is the external experimental data 
+ "new222new" file is the dataset and "testexperiment2upload2raw" file is the experimental data for the "solubility Challenge" and "testexperiment2upload3raw" file is the experimental data for "blind test"
 
